@@ -1,1 +1,4 @@
-# clock simply a program that runs a analogue clock
+# clock 
+
+
+simply a program that runs a analogue clock
